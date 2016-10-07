@@ -1,2 +1,2 @@
 # nodejs
-learning thins for nodejs
+learning things for nodejs
